@@ -1,19 +1,19 @@
 # iOS About Me
 
-A personal SwiftUI profile app created to showcase structured navigation, custom content sections, and clean mobile interface design.
+A personal SwiftUI profile app designed to present identity, story, interests, and personality through a clean multi-screen mobile interface.
 
 ## Overview
 
-This project was built as a personalized SwiftUI application focused on presenting profile-style content in a polished and organized way. It highlights my ability to work with SwiftUI layouts, reusable views, and content-driven app design.
+This project was built as part of my iOS development portfolio to demonstrate content-driven app design in SwiftUI. Instead of focusing on utilities or analytics, this app highlights how SwiftUI can be used to create a more personal and structured experience with navigation, profile presentation, storytelling, and interactive content sections.
 
 ## Features
 
-- Personal profile presentation
-- Structured content sections
-- Clean SwiftUI interface
-- Organized layout and styling
-- Reusable UI components
-- Mobile-friendly design
+- Home/profile screen
+- Story section with personalized background content
+- Favorites screen with hobbies, foods, and colors
+- Fun facts screen with interactive random fact display
+- Clean bottom-tab style navigation
+- Personalized SwiftUI layout and content structure
 
 ## Built With
 
@@ -21,22 +21,44 @@ This project was built as a personalized SwiftUI application focused on presenti
 - SwiftUI
 - Xcode
 
+## Screenshots
+
+### Home Screen
+Shows the main profile card and high-level introduction screen.
+
+![Home Screen](screenshots/home-screen.png)
+
+### Story Screen
+Shows the personal story section with longer-form written content.
+
+![Story Screen](screenshots/story-screen.png)
+
+### Favorites Screen
+Highlights hobbies, foods, and favorite colors in a more visual layout.
+
+![Favorites Screen](screenshots/favorites-screen.png)
+
+### Fun Facts Screen
+Shows the fun-facts section with a simple interactive prompt for displaying random facts.
+
+![Fun Facts Screen](screenshots/fun-facts-screen.png)
+
 ## What This Project Demonstrates
 
-- SwiftUI fundamentals
-- Content-driven interface design
-- Navigation and layout organization
-- Personalized app customization
-- Reusable view structure
-- Basic iOS design principles
+- SwiftUI navigation structure
+- Content-driven app design
+- Personalized mobile UI
+- Multi-screen layout organization
+- Visual presentation of profile data
+- Simple interactive elements
 
-## Project Purpose
+## Why I Built It
 
-The goal of this app was to create a simple but polished profile-style iOS project while practicing SwiftUI development and custom content presentation.
+I wanted to build a SwiftUI app that felt personal while still being structured and polished. This project gave me a chance to practice navigation, screen organization, custom content presentation, and the design of a profile-style mobile experience.
 
 ## Status
 
-Completed as a portfolio iOS project and personal SwiftUI build.
+Completed as a portfolio iOS project.
 
 ## Author
 
